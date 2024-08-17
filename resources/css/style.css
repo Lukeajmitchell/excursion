@@ -3,15 +3,16 @@ html {
   text-align: center;
 }
 
+p {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+
 .header h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 50px;
   color: white;
-}
-
-.header p {
-  color: aquamarine;
-  font-size: 16px;
 }
 
 .info h3 {
