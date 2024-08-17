@@ -1,11 +1,14 @@
+* {
+  background: black;
+  text-align: center;
+}
+
 .header h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 
 .header p {
   color: aquamarine;
-  text-align: center;
 }
