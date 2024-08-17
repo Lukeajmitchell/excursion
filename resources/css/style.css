@@ -36,12 +36,8 @@ h3 {
   text-align: right;
 }
 
-.copyright i, p {
+.copyright i{
   color: gray;
   text-align: right;
   font-size: 21px;
-}
-
-.copyright p {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
