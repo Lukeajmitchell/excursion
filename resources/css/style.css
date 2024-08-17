@@ -29,5 +29,10 @@ h3 {
 }
 
 .coming-soon {
-  margin-top: 20px;
+  margin-top: 25px;
+}
+
+.copyright i {
+  color: gray;
+  text-align: left;
 }
